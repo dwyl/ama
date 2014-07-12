@@ -23,3 +23,9 @@ and intuitive to use.
 - Accept the reply/answer to a question if you are satisfied
 - Add more detail or re-phrase a question if you are unsatisfied with an answer.
 - When more than one answer is given, allow people to vote up the best answer
+
+
+### Name
+
+The name "eFAyQueue" is a working title till we come up with a better (shorter)
+name. Got a suggestion? send it to us!
