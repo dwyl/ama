@@ -16,7 +16,10 @@ and intuitive to use.
 
 ## Features
 
-- Search for keywords or entire phrases in your internal database of information
+- ***Search*** for keywords or entire phrases in your internal database of information
+
+Searching is the most important feature (once there are more than a couple of pages worth of questions)
+
 - Create a new question and target it at everyone or a specific person/group.
 - Share your question on existing internal/external social networks (depending
   on the sensitivity of the question)
@@ -29,3 +32,8 @@ and intuitive to use.
 
 The name "eFAyQueue" is a working title till we come up with a better (shorter)
 name. Got a suggestion? send it to us!
+
+
+## (Re)search
+
+- Elasticsearch vs Solr: http://stackoverflow.com/questions/10213009/solr-vs-elasticsearch
