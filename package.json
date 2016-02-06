@@ -1,0 +1,22 @@
+{
+  "name": "ama",
+  "version": "1.0.0",
+  "description": "Ask Me Anything As-a-Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ideaq/ama.git"
+  },
+  "keywords": [
+    "FAQ"
+  ],
+  "author": "The Usual Suspects",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/ideaq/ama/issues"
+  },
+  "homepage": "https://github.com/ideaq/ama#readme"
+}
